@@ -1,3 +1,13 @@
+## Jekyll
+_site
+Gemfile.lock
+.jekyll-cache
+.uuid
+.vendor
+
+## CSL styles
+_csl
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
