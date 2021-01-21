@@ -1,25 +1,24 @@
 ---
-title:         Accouplement
-subtitle:      Vicissitudes d'un motif architectural dans le classicisme français
+title        : Accouplement
+subtitle     : Vicissitudes d'un motif architectural dans le classicisme français
 author:
-- name:        Pedro Palazzo
+- name       : Pedro Palazzo
   affiliation: Faculté d'Architecture de l'Université de Brasilia
-  email:       palazzo@unb.br
-date:          2018-02-05
-abstract: |
-  Les colonnes accouplées et l
+  email      : palazzo@unb.br
+date         : 2018-02-05
+csl          : _csl/iso690-note-fr.csl
 ---
 
 
-Introduction[^1]
+Introduction
 ============
 
 L'accouplement a été défini par Quatremère de Quincy,
 dans un article de l'*Encyclopédie*, comme étant l'usage
 de colonnes très rapprochées,
-surtout dans une colonnade détachée du mur\ ;
+surtout dans une colonnade détachée du mur ;
 il jugea ce motif une "faute" et le premier pas
-sur le chemin du vice.[@quatremere:1788accouplement]
+sur le chemin du vice [@quatremere:1788accouplement1].
 Néanmoins, sa préoccupation à en critiquer l'emploi
 montre bien qu'il s'agissait alors d'un motif récurrent
 dans l'architecture française,
@@ -49,10 +48,9 @@ la tradition classique, un débat qui devait durer
 jusqu'au début du XX^e^ siècle.
 Les discussions sur le sujet des proportions à observer ainsi que
 sur l'autorité de l'antique et des inventions modernes
-partagèrent la scène avec les préoccupations ayant égard à
-la résistance aux poussées, à la construction des plate-bandes
-et la légitimité architecturale des tirants en fer dissimulés
-dans la structure.
+partagèrent la scène avec les préoccupations ayant égard à la résistance
+aux poussées, à la construction des plates-bandes et la légitimité
+architecturale des tirants en fer dissimulés dans la structure.
 
 Cette longue histoire de débats et d'usages divers
 fut pourtant presque oubliée au XX^e^ siècle.
@@ -61,35 +59,30 @@ unitaire et téléologique pour l'architecture française,
 expurgée des disputes esthétiques du siècle précédent,
 fit ériger l'accouplement de colonnes en parangon.
 d'un classicisme national supra-historique
----\ étape préparatoire pour le «\ véritable classicisme\ »
+--- étape préparatoire pour le « véritable classicisme »
 de l'esprit abstrait, selon Louis Hautecœur.
 
 En dehors de cette célébration de particularisme gallican,
 l'accouplement en tant que problème théorique fut délaissé.
-L'histoire des débats autour de ce problème reste donc à faire,
-pour ce que l'essai qui suit tient lieu
-d'un bref prolégomène.
-La première réflexion qui s'impose est justement\ :
-pourquoi écrire une histoire de l'accouplement de colonnes\ ?
-Une première réponse possible tient à la configuration du
-champ disciplinaire de l'histoire de l'architecture en France,
-dont le caractère de discipline scientifique autonome
-est encore en cours d'affirmation.
-<!-- citer Talenti, Jannière ? -->
+L'histoire des débats autour de ce problème reste donc à faire, pour ce
+que l'essai qui suit tient lieu de brefs prolégomènes. La première
+réflexion qui s'impose est justement : pourquoi écrire une histoire de
+l'accouplement de colonnes ? Une première réponse possible tient à la
+configuration du champ disciplinaire de l'histoire de l'architecture en
+France, dont le caractère de discipline scientifique autonome est encore
+en cours d'affirmation. <!-- citer Talenti, Jannière ? -->
 Le déclin de l'esthétique normative
-au début du XX^e^ siècle[^7]
-<!-- citer Boudon ? -->
+au début du XX^e^ siècle[^7] <!-- citer Boudon ? -->
 introduisit une scission entre la théorie et l'histoire
 de l'architecture, cette dernière s'étant déjà alors établie
-comme une sous-discipline de l'histoire de l'art.
-<!-- Talenti again ? -->
+comme une sous-discipline de l'histoire de l'art. <!-- Talenti again ? -->
 
 De pair avec l'acquisition de
 nouvelles ressources méthodologiques et critiques,
 fournies par les historiens de l'art,
 l'abandon de l'histoire par les architectes français
----\ au contraire de ce qui se passa dans
-le monde anglo-saxon à la même époque\ ---
+--- au contraire de ce qui se passa dans
+le monde anglo-saxon à la même époque ---
 signala un retrait de la discipline dans
 les recherches à caractère archéologique.
 
@@ -120,7 +113,7 @@ L'historiographie de l'art s'accommode toujours mal
 des frontières politiques.
 Anciennes ou modernes, elles représentent des césures
 de juridiction
----\ souvent plus théoriques qu'effectives\ ---
+--- souvent plus théoriques qu'effectives ---
 que la culture méconnaît, soit pour les transposer allègrement,
 soit pour les recouper d'autres formes de
 régionalisation.
@@ -150,7 +143,7 @@ furent tant de problèmes dont les arguments
 circulaient d'un pays à l'autre au gré
 des voyages des architectes et de la traduction des traités.
 
-Au sein de cette «\ république universelle\ » de l'art,
+Au sein de cette « république universelle » de l'art,
 cependant, la question de l'accouplement
 préoccupa les Français plus que tout autre cercle
 de critique d'architecture.
@@ -162,12 +155,12 @@ hors d'une communauté constamment identifiée,
 du dedans comme du dehors, à la France.
 
 Cette clarté n'exclut pas que les frontières de la
-«\ république française de l'architecture classique\ »
+« république française de l'architecture classique »
 aient été mouvantes au fil des siècles.
 L'insertion des provinces du royaume dans le giron culturel
 qui produisait les discours et les ouvrages français canoniques
 fut, on le sait, graduelle, irrégulière et
-souvent incomplète\ ;
+souvent incomplète ;
 ce qui n'est pas pour enlever son mérite à
 la production provinciale,
 mais simplement pour reconnaître la diversité
@@ -196,10 +189,10 @@ qu'il faut comprendre que l'étude des colonnes accouplées
 consiste en un problème français par excellence.
 L'accouplement des colonnes n'est pas l'expression univoque
 d'un caractère classique français supra-historique
----\ l'on verra que ce fut, bien au contraire,
+--- l'on verra que ce fut, bien au contraire,
 dans la dénonciation de colonnades accouplées que
 plusieurs auteurs se revendiquèrent d'une tradition classique
-authentiquement française\ ---\ ;
+authentiquement française --- ;
 mais le fait de poser l'accouplement en tant que problème
 de principes théoriques ou d'interprétation historique
 rattache une constellation d'auteurs et de praticiens
@@ -220,12 +213,12 @@ une histoire générale de l'architecture classique française,
 ni une pièce critique prenant un motif historique
 comme prétexte à une digression sur un sujet théorique.
 Il s'inscrit plutôt dans la tradition nord-américaine
-des «\ monographies à thèse\ »\ ;
+des « monographies à thèse » ;
 dans le cadre d'une délimitation thématique plutôt
 qu'axée sur une personne, un édifice ou une période,
 le traitement du sujet suit un ordre à peu près chronologique.
 Ce parti pris détermine la présentation des exemples
-ainsi que leur articulation\ :
+ainsi que leur articulation :
 plutôt que de faire un inventaire exhaustif
 des usages de colonnes accouplées en France,
 l'on s'est tenu à un choix d'exemples qui illustrent,
@@ -238,11 +231,11 @@ Par ailleurs, l'approche chronologique fait en sorte que
 l'exposition de la thèse ne soit pas
 un argumentaire systématique de cause à effet,
 mais plutôt une accumulation d'évidences,
-ce qu'Ernst Gobrich a nommé les «\ symptômes\ »
-d'une «\ syndrome\ » artistique.
+ce qu'Ernst Gobrich a nommé les « symptômes »
+d'une « syndrome » artistique.
 <!-- citer, Sense of order ? -->
 De la foi de cet auteur, l'écriture d'une histoire de l'art
-structurée en «\ syndromes\ » permet de justifier
+structurée en « syndromes » permet de justifier
 son organisation par périodes ou thèmes
 sans avoir recours à la téléologie
 d'une philosophie de l'histoire depuis longtemps désuète.
@@ -253,11 +246,11 @@ que cette recherche concerne la discussion
 d'un problème théorique dans une perspective de longue durée.
 Il faut suivre la continuité de ce problème tout en évitant
 de tomber dans l'anachronisme d'attribuer à des acteurs
-des schémas de pensée qui leur auraient été inconcevables\ ;
+des schémas de pensée qui leur auraient été inconcevables ;
 <!-- Qui citer ? -->
 Victor-L. Tapié ne s'interrogeait-il pas déjà
 sur la validité même de ces concepts de base tels que
-«\ baroque\ » et «\ classique\ »\ ?
+« baroque » et « classique » ?
 <!-- Citer baroque et classicisme -->
 <!-- Citer Mignot, Vocabulaire des philosophies -->
 Une discussion préliminaire des concepts s'impose donc,
@@ -271,17 +264,17 @@ Précisions sur le vocabulaire
 
 Dans l'historiographie récente, il est assez rare que
 l'on se préoccupe d'identifier explicitement le motif
-des colonnes accouplées dans une composition classique\ ;
-quand c'est le cas, au vocable historique d'«\ accouplement\ »
+des colonnes accouplées dans une composition classique ;
+quand c'est le cas, au vocable historique d'« accouplement »
 est substituée soit l'expression
-«\ ordonnance pseudosystyle\ », qui situe ce motif très précisément
+« ordonnance pseudosystyle », qui situe ce motif très précisément
 dans le répertoire de Claude Perrault et des Modernes
 du XVII^e^ siècle,
-soit le terme soigneusement neutre de «\ colonnes jumelées\ »,
+soit le terme soigneusement neutre de « colonnes jumelées »,
 avancé par Jean-Marie Pérouse de Montclos
 dans son vocabulaire technique propédeutique à
-l'inventaire national des monuments historiques.
-[@perouse:1973principes, v. 1, p. 87]
+l'inventaire national des monuments historiques
+[@perouse:1972vocabulaire, v. 1, p. 87].
 
 Pour ce qui est de l'ordonnance pseudosystyle,
 il est évident qu'il s'agit là d'une dénomination
@@ -292,7 +285,7 @@ de la fin du XVII^e^ siècle peut être abusive,
 puisque l'insertion d'autres architectes dans ce débat
 est loin d'être certaine.
 
-Le terme de «\ colonnes jumelées\ » est tout le contraire.
+Le terme de « colonnes jumelées » est tout le contraire.
 C'est une expression étudiée pour n'évoquer
 aucun contexte ou débat spécifique.
 Elle peut donc s'appliquer à tout usage de colonnes
@@ -303,7 +296,7 @@ des structures médiévales.
 
 Dans le cadre particulier de cette recherche,
 pourtant, c'est bien de cette tradition classique
-qu'il s'agit, et de l'emploi du terme «\ accouplement\ »
+qu'il s'agit, et de l'emploi du terme « accouplement »
 à la charnière de la théorie classique qui s'opère
 au début du XIX^e^ siècle.
 C'est donc par volonté explicite de rattachement aux problèmes
@@ -311,7 +304,7 @@ soulevés par le débat classiciste sous l'égide de
 Quatremère de Quincy et ses références au XVII^e^ siècle,
 ainsi que la survivance de la question de façon implicite
 dans le discours de la seconde moitié du XIX^e^,
-que le terme «\ accouplement\ » sera employé ici.
+que le terme « accouplement » sera employé ici.
 En effet, dans la continuité de ce débat,
 même le jumelage de colonnes médiévales est traité
 sous le prisme de son appropriation par
@@ -319,7 +312,7 @@ le discours justificatif qui se construisit autour de
 l'identité gothique trans-historique de
 l'architecture française.
 
-La «\ travée rythmique\ », par contre, est un terme technique
+La « travée rythmique », par contre, est un terme technique
 conçu au sein de la recherche en histoire de l'art
 vers la fin du XIX^e^ siècle.
 Elle désigne, avec peu d'ambiguité, un motif particulier
@@ -333,7 +326,7 @@ d'une séquence alternée de baies larges et étroites,
 dont l'usage le plus fréquent plaçait une fenêtre
 dans la grande baie et une niche dans la petite baie.
 Pérouse de Montclos reprend l'expression tout en renforçant
-la spécificité de cette description\ ;
+la spécificité de cette description ;
 il a souligné
 l'usage le plus caractéristique de la travée rythmique
 dans la Renaissance française, avec des baies principale
@@ -349,7 +342,7 @@ Ici encore, toutefois, il sera question de déroger à l'autorité
 des *Principes d'analyse* établis par Pérouse de Montclos
 dans l'interêt, d'un côté, de signaler les rapports entre
 la travée rythmique de la Renaissance et
-les colonnes accouplées du classicisme\ ;
+les colonnes accouplées du classicisme ;
 d'un autre côté, l'on se place ainsi en continuité
 avec une historiographie de l'architecture plus ample,
 dont les contributions aux recherches plus récentes
@@ -360,14 +353,12 @@ de colonnes accouplées dans des colonnades détachées,
 l'objet principal de ce texte.
 L'espace entre la colonnade et le mur du bâtiment
 est défini par Pérouse de Montclos de façon générale
-comme une «\ galerie ouverte\ », ou, plus spécifiquement,
-un «\ portique\ » au rez-de-chaussée et une «\ loggia\ »
-à l'étage.[@perouse:1973principes, v. 1, p. 35]
-Le terme «\ galerie\ » étant le plus usité
-aux XVII^e^ et XVIII^e^ siècle pour décrire cet espace,
-figurant notamment dans les mémoires de Charles Perrault,
-l'usage conseillé par Pérouse de Montclos
-est donc retenu ici.
+comme une « galerie ouverte », ou, plus spécifiquement,
+un « portique » au rez-de-chaussée et une « loggia » à l'étage
+[@perouse:1972vocabulaire, v. 1, p. 35]. Le terme « galerie » étant le
+plus usité aux XVII^e^ et XVIII^e^ siècle pour décrire cet espace,
+figurant notamment dans les mémoires de Charles Perrault, l'usage
+conseillé par Pérouse de Montclos est donc retenu ici.
 <!-- Conclure ? -->
 
 
@@ -415,7 +406,7 @@ atteignit son faîte dans le projet, la construction et
 la critique presque immédiate de la colonnade du Louvre.
 Cette colonnade, on l'a déjà avancé, fut un moment charnière
 qui fit éclater au grand jour tout un ensemble
-de préceptes jusque-là implicites\ ;
+de préceptes jusque-là implicites ;
 elle domine donc le centre de la section,
 qui se termine par la continuité des termes de sa critique
 dans le discours et la pratique architecturale
@@ -465,7 +456,7 @@ cessaient d'être abordées comme une question de
 principe esthétique général,
 la critique nationaliste des styles d'architecture,
 sous la plume des historiens et architectes médiévistes,
-condamnait sans relâche la «\ vanité\ » monumentale
+condamnait sans relâche la « vanité » monumentale
 des colonnades classiques, et celle du Louvre en particulier.
 Malgré cela, et même si le dictionnaire historique
 de Quatremère de Quincy faisait encore autorité,
@@ -528,28 +519,27 @@ de la construction traditionnelle en France.
 Cette tradition, comme l'a montré Jean-Marie Pérouse de Montclos,
 puisait non seulement ses sources d'expertise, mais aussi
 un répertoire d'expressions plastiques de la technique constructive,
-dans les secrets de métier du Moyen Âge.
-[@perousedemontclos:2001architecture]
-Les échos de la technique et de la composition médiévales
-étaient présents dans l'œuvre écrite et bâtie de De l'Orme,
-bien connue des auteurs classiques.
+dans les secrets de métier du Moyen Âge [@perouse:2001architecture]. Les
+échos de la technique et de la composition médiévales étaient présents
+dans l'œuvre écrite et bâtie de De l'Orme, bien connue des auteurs
+classiques.
 
 Du côté de la tradition médiévale,
 Philippe Plagnieux a retracé le développement des
 faisceaux de piliers dans l'architecture romane et gothique
 en tant qu'intention de
-«\ répercuter jusqu'au sol l'armature de l'édifice\ »,
-tributaire d'un «\ nouveau souci unificateur de l'espace\ ».
+« répercuter jusqu'au sol l'armature de l'édifice »,
+tributaire d'un « nouveau souci unificateur de l'espace ».
 [@plagnieux:2008colonnes, p. 78]
 Dans les églises gothiques à voûtes sixpartites, cependant,
 la cadence régulière des modules rectangulaires en plan
 contrastait avec le rythme alterné des nervures
 sous la voûte principale, en contradiction avec
 le principe de l'unification spatiale.
-Ce contraste pouvait être résolu de deux façons\ :
+Ce contraste pouvait être résolu de deux façons :
 l'une, visible par exemple dans les cathédrales de
 Paris et Amiens, faisait retomber les nervures sur
-des piliers cylindriques, tous identiques\ ;
+des piliers cylindriques, tous identiques ;
 l'autre, que l'on trouve à Sens et à Noyon,
 consistait à accepter l'alternance des faisceaux de nervures
 jusqu'au sol.
@@ -562,15 +552,14 @@ d'expansions et contractions successives dans la structure.
 Alexander, Mark et Abel ont démontré, en outre, que
 la voûte sexpartite était non seulement une invention plastique,
 mais surtout un progrès technique par rapport aux voûtes
-romanes sur plan carré, permettant de réduire les poussées
-et donc d'alléger la structure.[@alexander:1982structural, p. 250]
-Cette innovation permit, pendant la seconde moitié du XII^e^ siècle,
-de réaliser les travées longitudinales assez larges et
-entièrement vitrées qui caractérisent le premier gothique français.
-Néanmoins, le goût de la régularité se fit voir dans l'introduction
-de voûtes quadripartites rectangulaires, comme à Chartres,
-ce qui permettaient de faire les retombées des piliers en faisceaux
-identiques.
+romanes sur plan carré, permettant de réduire les poussées et donc
+d'alléger la structure [@alexander:1977structural36, p. 250]. Cette
+innovation permit, pendant la seconde moitié du XII^e^ siècle, de
+réaliser les travées longitudinales assez larges et entièrement vitrées
+qui caractérisent le premier gothique français. Néanmoins, le goût de la
+régularité se fit voir dans l'introduction de voûtes quadripartites
+rectangulaires, comme à Chartres, ce qui permettaient de faire les
+retombées des piliers en faisceaux identiques.
 
 En tout cas, la préférence pour l'alternance, dans les nefs, entre
 de larges travées et des piliers épais et clairement articulés,
@@ -581,45 +570,43 @@ Un exemple particulièrement épatant de cette symbiose entre gothique
 et classique se trouve à Saint-Maclou, à Pontoise, où
 des faisceaux de piliers soutenant une voûte nervurée
 étaient articulés par des colonnes et pilastres classiques
-de proportions variées\ :
+de proportions variées :
 
 > Les formes n'ont rien de
-> commun, mais la «\ règle du jeu\ » est la même. Les principes
+> commun, mais la « règle du jeu » est la même. Les principes
 > de l'ancien style, intériorisés par l'artiste, commandent sa
 > création alors qu'il se proposait sans doute, lui aussi,
-> d'introduire en France la «\ façon de bien bâtir\ » et d'en
-> «\ ôter les façons barbares\ ».
-> [@guillaume:1992francais, p. 200]
+> d'introduire en France la « façon de bien bâtir » et d'en
+> « ôter les façons barbares ». [@guillaume:1992francais, p. 200]
 <!-- cite Mignot, l'articulation des façades -->
 
 De là à vouloir tracer jusqu'au gothique
 la généalogie d'un motif classique entièrement redevable
 de la logique de composition des ordres d'architecture,
 cependant, il y a une grande distance que
-l'historiographie de l'art se garde bien de traverser\ :
+l'historiographie de l'art se garde bien de traverser :
 
-> Faut-il pour autant parler de «\ survivances gothiques\ »\ ?
+> Faut-il pour autant parler de « survivances gothiques » ?
 > L'expression est trompeuse car les formes propres au
 > flamboyant ont toutes disparu de l'architecture civile et
 > commencent à s'effacer dans l'architecture religieuse.
 > Ce qui subsiste, en revanche, ce sont des partis formels
 > qui survivent à la disparition du style au sein duquel ils
 > se sont définis et qui deviennent ainsi, pour un temps plus
-> ou moins long, des «\ topiques\ » caractéristiques d'une
-> manière «\ nationale\ ».
-> [@guillaume:1992francais, p. 206]
+> ou moins long, des « topiques » caractéristiques d'une
+> manière « nationale ». [@guillaume:1992francais, p. 206]
 <!-- cite P. de M. -->
 
 Le discours d'une origine gothique à
 l'accouplement de colonnes ou, dans un spectre plus général,
-l'idéologie de la «\ survivance\ » d'un caractère gothique
+l'idéologie de la « survivance » d'un caractère gothique
 dans l'esprit français à travers les âges,
-peut donc être étudié pour ce qu'il est\ :
+peut donc être étudié pour ce qu'il est :
 une construction évidemment rétrospective et à programme,
-conçue pour alimenter une «\ république\ » savante,
+conçue pour alimenter une « république » savante,
 friande d'étymologies de toutes sortes et surtout
 de celles qui seraient aptes à soutenir
-un sentiment national et dynastique\ ;
+un sentiment national et dynastique ;
 mais aussi une construction fondée sur
 de véritables continuités dans les pratiques architecturales,
 consignées par écrit et par là connues même
@@ -637,91 +624,84 @@ pratiques et de plastiques originaires de la période gothique,
 peu souvent rappelée depuis.
 L'écossais William Henry Ward a été l'un des derniers à remarquer,
 sans plus de précisions, que
-«\ the native, free naturalistic spirit, which it represented,
+« the native, free naturalistic spirit, which it represented,
 remained potent in design (...) while indirect Gothic influence
-is traceable even in the eighteenth [century]\ ».
-[@ward:1911architecture, v. 1, p. xxv]
+is traceable even in the eighteenth [century] »
+[@ward:1911architecture1, p. xxv].
 
 Avant lui, le baron Heinrich Adolf von Geymüller,
 un précurseur de la recherche systématique
 dans l'histoire de l'architecture française, avait été le premier
 à proposer une double origine pour les colonnes accouplées
-à la Renaissance\ :
+à la Renaissance :
 en les faisant descendre, d'un côté, du principe d'alternance
-structurale et visuelle de la tradition gothique\ ;
+structurale et visuelle de la tradition gothique ;
 d'un autre côté, en y voyant une appropriation française
-de la *travée rythmique* ---\ «\ rhythmische Travée\ »\ ---
+de la *travée rythmique* --- « rhythmische Travée » ---
 de la haute Renaissance à Rome, telle que mise en œuvre
 par Donato Bramante, lui-même inspiré par
 les arcs de triomphe antiques ainsi que par
-d'autres ouvrages d'architectes modernes.
-[@geymuller:1901baukunst, p. 378--386]
-C'est au Palais Caprini, dit maison de Raphaël,
-que la travée rythmique de Bramante s'approcha le plus
-du motif de la colonnade accouplée, quoiqu'il s'agisse, là,
-de colonnes engagées.
+d'autres ouvrages d'architectes modernes [@geymueller:1901baukunst2, p.
+378--386]. C'est au Palais Caprini, dit maison de Raphaël, que la travée
+rythmique de Bramante s'approcha le plus du motif de la colonnade
+accouplée, quoiqu'il s'agisse, là, de colonnes engagées.
 <!-- Vocabulaire conformément à P. de M. p. 87 -->
 Parmi les textes français, l'ouvrage canonique de Louis Hautecœur,
 *Histoire de l'architecture classique en France*,
 ferait bien plus tard la part belle à De l'Orme,
 en lui attribuant le rôle de vulgarisateur de la travée rythmique
-dans le classicisme français.
-[@hautecoeur:1965histoire, t. 1, v. 2, p. 285]
+dans le classicisme français [@hautecoeur:1965histoire1.2, p. 285].
 
 Le signalement des colonnes accouplées comme un motif architectural
 majeur de la tradition classique française nécessitait, au préalable,
 la formation d'un corpus théorique cisalpin postulant la possibilité
-d'une différence dans l'expression de l'architecture classique
-«\ selon les nations\ ».[@perousedemontclos:1977sixieme]
-Le bolonais Sebastiano Serlio, au service de François I^er^
-peu après 1540, compte parmi les premiers à avoir observé,
-dans le manuscrit de son *Sesto libro di architettura*
-[@serlio:1997serlio], des particularités françaises
-dans la composition architecturale, aussi bien en plan
-que dans l'articulation des élévations, par rapport à
-la coutume italienne.
-De l'Orme soutint plus explicitement que les bâtisseurs français
-devaient adapter les ordres d'architecture et leur usage,
-en raison de la différence dans les propriétés structurales
-du marbre italien et du calcaire français.
-Il alla même plus loin en défendant une sorte de droit naturel
-de créer de nouveaux ordres pour chaque nation,
-y compris des règles particulières pour leurs entrecolonnements
----\ quoique ces dernières aient eu une fortune critique bien moindre,
-dans l'histoire de la théorie architecturale, que ses célèbres
-fûts de colonnes en tambours séparés par des bandes convexes.
-[@delorme:1567architecture, f. 218\ v.º--219\ r.º]
+d'une différence dans l'expression de l'architecture classique « selon
+les nations » [@perouse:1977sixieme36]. Le bolonais Sebastiano
+Serlio, au service de François I^er^ peu après 1540, compte parmi les
+premiers à avoir observé, dans le manuscrit de son *Sesto libro di
+architettura* [@serlio:1997serlio], des particularités françaises dans
+la composition architecturale, aussi bien en plan que dans
+l'articulation des élévations, par rapport à la coutume italienne. De
+l'Orme soutint plus explicitement que les bâtisseurs français devaient
+adapter les ordres d'architecture et leur usage, en raison de la
+différence dans les propriétés structurales du marbre italien et du
+calcaire français. Il alla même plus loin en défendant une sorte de
+droit naturel de créer de nouveaux ordres pour chaque nation, y compris
+des règles particulières pour leurs entrecolonnements --- quoique ces
+dernières aient eu une fortune critique bien moindre, dans l'histoire de
+la théorie architecturale, que ses célèbres fûts de colonnes en tambours
+séparés par des bandes convexes [@delorme:1567architecture, f. 218 v.º--219 r.º].
 
-> Parler, comme on le fait toujours, de l'«\ introduction des
-> ordres\ » laisse penser que les ordres ont une réalité
+> Parler, comme on le fait toujours, de l'« introduction des
+> ordres » laisse penser que les ordres ont une réalité
 > objective, qu'ils constituent un langage universel et qu'il
 > suffit de les étudier pour les employer correctement.
 > Cette idée, qui inspire tous les traités d'architecture, est
 > partiellement vraie (...) Mais les ordres réels, tels qu'ils
 > sont employés dans l'architecture, ne se réduisent pas à un
-> dessin abstrait, plus ou moins «\ correct\ »\ : ils existent
+> dessin abstrait, plus ou moins « correct » : ils existent
 > à l'intérieur d'un système architectural qui n'exploite
-> jamais qu'une partie de leurs possibilités et leur confère
-> donc un caractère propre.[@guillaume:1992francais, p. 194]
+> jamais qu'une partie de leurs possibilités et leur confère donc un
+> caractère propre. [@guillaume:1992francais, p. 194]
 
 > (...) il est possible dès maintenant de mettre en évidence
 > les choix fondamentaux qui ont déterminé le plus souvent
 > l'emploi des ordres dans ce pays, choix spontanés, à peine
 > conscient, dont les traités ne parlent jamais et que les
-> historiens de l'art n'expliquent pas, parce qu'ils semblent
-> aller de soi.[@guillaume:1992francais, p. 195]
+> historiens de l'art n'expliquent pas, parce qu'ils semblent aller de
+> soi. [@guillaume:1992francais, p. 195]
 
-> Le trait le plus évident est le caractère décoratif des
-> ordres.[@guillaume:1992francais, p. 196]
+> Le trait le plus évident est le caractère décoratif des ordres.
+> [@guillaume:1992francais, p. 196]
 <!-- 100 ans après Gurlitt et Geymüller ! -->
 
 > S'il <!-- l'architecte du château de Bournazel 1545 -->
 > l'avait vue, la façade du palais de Raphaël lui aurait
 > paru ennuyeuse, pauvre et, pour employer un mot cher à
-> de L'Orme, dépourvue d'«\ enrichissements\ ».
+> de L'Orme, dépourvue d'« enrichissements ».
 > <!-- v. aussi Maison de la Chancellerie, Loches, 1551 -->
 >
-> La «\ faiblesse\ » des ordres français résulte en
+> La « faiblesse » des ordres français résulte en
 > premier lieu des habitudes de construire. Dans un pays
 > où les étages sont moins élevés qu'en Italie, les colonnes
 > et les pilastres utilisés en façade sont nécessairement moins
@@ -736,7 +716,7 @@ fûts de colonnes en tambours séparés par des bandes convexes.
 > plus fragiles. Bien que les formes nouvelles n'aient plus
 > rien de commun avec celles du passé, leurs créateurs
 > semblent attachés, inconsciemment, aux moulures fines, aux
-> membres légers, aux structures «\ atectoniques\ » de l'art
+> membres légers, aux structures « atectoniques » de l'art
 > flamboyant (...) [@guillaume:1992francais, p. 197]
 
 > Dans cette composition forte et subtile,
@@ -745,8 +725,7 @@ fûts de colonnes en tambours séparés par des bandes convexes.
 > indépendants et entretiennent des rapports instables.
 > (...) le verticalisme de l'architecture française que les
 > ordres paraissaient devoir condamner, survit et triomphe...
-> par les ordres.
-> [@guillaume:1992francais, p. 199]
+> par les ordres. [@guillaume:1992francais, p. 199]
 
 > La colonne libre adossée, sur laquelle nous voulons insister
 > parce qu'elle est la plus caractéristique de la manière
@@ -754,22 +733,21 @@ fûts de colonnes en tambours séparés par des bandes convexes.
 > française, apparaît avant l'introduction des ordres
 > classiques, vers 1530. (...) Le plus bel exemple de cet emploi
 > est sans doute la chapelle de Chambord où des colonnes
-> doriques ccouplées rythment les parois et portent les
-> doubleaux de la voûte.[@guillaume:1992francais, p. 200]
+> doriques ccouplées rythment les parois et portent les doubleaux de la
+> voûte. [@guillaume:1992francais, p. 200]
 <!-- lanterne de Chambord, galerie de Chantilly, escalier de la cour ovale de Fontainebleau -->
 
 > La tendance à détacher la colonne du mur explique que
 > celle-ci soit généralement adossée à un pilastre et non
 > directement au mur. Cette disposition accentue la saillie et
-> offre l'avantage ---\ aux yeux des Français\ ---
-> d'«\ enrichir\ » l'effet décoratif.
-> [@guillaume:1992francais, p. 201]
+> offre l'avantage --- aux yeux des Français ---
+> d'« enrichir » l'effet décoratif. [@guillaume:1992francais, p. 201]
 
 > Les habitudes acquises, toutefois, n'expliquent pas tout
 > car rien ne laissait prévoir la tendance française à
 > détacher la colonne du mur et à créer ainsi un plan des
 > ordres en avant du plan du mur. (...) En tout cas, ce choix
-> répond à des préoccupations savantes\ : on croyait imiter
+> répond à des préoccupations savantes : on croyait imiter
 > l'Antiquité en mettant en valeur ce qui semblait être le
 > motif antique par excellence.
 >
@@ -780,26 +758,11 @@ fûts de colonnes en tambours séparés par des bandes convexes.
 > du XVII^e^ lorque triomphe le grand style monumental, mais
 > sans disparaître tout à fait. (...)
 > Le goût de la colonne isolée, qui a d'autres sources, ne
-> connaît en revanche aucun affaiblissement\ : (...) ce parti
+> connaît en revanche aucun affaiblissement : (...) ce parti
 > que les théoriciens désormais justifient, opposant cet emploi
-> clair des ordres aux «\ abus\ » des Italiens, coupables de
+> clair des ordres aux « abus » des Italiens, coupables de
 > faire se pénétrer et se confondre pilastres et colonnes.
 > [@guillaume:1992francais, p. 206]
-
----
-title:           Les Français et les ordres 1540--1550
-author:
-- family:        Guillaume
-  given:         Jean
-container-title: L'emploi des ordres à la Renaissance
-editor:
-- family:        Guillaume
-  given:         Jean
-publisher:       Picard
-date:
-- date-parts:    1992
-page:            193--218
----
 
 
 Colonnades accouplées du XVI^e^ au milieu du XVII^e^ siècle
@@ -814,12 +777,12 @@ Bien que De l'Orme ait travaillé sur ce château de 1543 à 1555,
 le rez-de-chaussée du corps de logis principal,
 comprenant la galerie, semble précéder cette campagne de
 construction, et donc dater du début
-des années 1540.[@hautecoeur:1965, t. 1, v. 2, p. 283]
+des années 1540.[@hautecoeur:1965histoire1.2, p. 283]
 
 Le motif de la galerie d'Anet n'eut pas de suite architecturale,
 mais il fut transposé par Antoine Caron sur une Rome imaginaire
 un quart de siècle plus tard, dans la peinture
-«\ Les massacres du triumvirat\ » (1566).
+« Les massacres du triumvirat » (1566).
 Cette référence tenait peut-être de l'association d'Anet
 avec sa nouvelle propriétaire, Louise de Brézé,
 alliée par mariage à la maison de Guise,
@@ -834,7 +797,7 @@ c'est bien à De l'Orme que revient l'honneur d'avoir, le premier,
 développé une théorie des entrecolonnements rythmiques,
 dont l'originalité par rapport aux traités des ordres
 du XVI^e^ siècle ne doit pas être sous-estimée.
-[@delorme:1567architecture, f. 233\ v.º--234\ v.º]
+[@delorme:1567architecture, f. 233 v.º--234 v.º]
 Il en exemplifia l'usage quelques années après son activité à Anet,
 dans la chapelle du parc au château de Villers-Cotterêts (c. 1553).
 Le relevé de Jacques Androuet du Cerceau, destiné au recueil
@@ -842,7 +805,7 @@ Le relevé de Jacques Androuet du Cerceau, destiné au recueil
 montre un portique d'ordre français à six colonnes *in antis*,
 dont deux paires accouplées encadraient la baie centrale.
 
-L'originalité de cette composition est remarquable\ ;
+L'originalité de cette composition est remarquable ;
 elle démontre une connaissance approfondie de motifs antiques,
 dont les colonnes *in antis* sont un cas assez exceptionnel,
 ainsi qu'une désinvolture dans la manipulation des
@@ -869,35 +832,31 @@ bien détaché des préoccupations théoriques de De l'Orme
 à propos des particularités françaises.
 Dans une ville qui,
 selon Bernard Sournia et Jean-Louis Vayssettes,
-a «\ brûlé l'étape\ » de la Renaissance pour passer
+a « brûlé l'étape » de la Renaissance pour passer
 de l'art roman directement au classique,
 les ordres étaient, à la fin du XVI^e^ siècle,
-un «\ vêtement décoratif\ » de surfaces murales
-tout aussi autonomes et importés que les moulures
-du gothique flamboyant.[@sournia:1994montpellier, p. 33]
+un « vêtement décoratif » de surfaces murales
+tout aussi autonomes et importés que les moulures du gothique flamboyant
+[@sournia:1994montpellier, p. 33].
 
 Ainsi, ce qui semblerait, à Montpellier, être un écho
 des principes de composition du cercle de De l'Orme,
-ne s'avérait en fait qu'un système d'encadrement de baies
-par un ordre de pilastres,[@sournia:1994montpellier, p. 36]
-la travée rythmique qui en résultait n'étant pas
-articulée sur la succession verticale.
-Ainsi les façades des hôtels de Boucaud et de Gayraud,
-tous deux datables au début du XVII^e^ siècle,
-comportaient une travée rythmique isolée au bel étage,
-tandis que les baies du premier niveau et de l'attique,
-dépourvues d'articulation verticale,
-ne s'alignaient aucunement avec cette composition.
-La façade de l'hôtel Jougla de Lozière réalisait
-une superposition d'ordres à pilastres plus crédible.
-Cela n'est pas dire qu'il s'agissait alors
-d'une simple reproduction irréfléchie de motifs de décoration.
-Les galeries à colonnades deviendraient, à Montpellier,
-les signes extérieurs de nouvelles distributions\ :
+ne s'avérait en fait qu'un système d'encadrement de baies par un ordre
+de pilastres [@sournia:1994montpellier, p. 36], la travée rythmique qui
+en résultait n'étant pas articulée sur la succession verticale. Ainsi
+les façades des hôtels de Boucaud et de Gayraud, tous deux datables au
+début du XVII^e^ siècle, comportaient une travée rythmique isolée au bel
+étage, tandis que les baies du premier niveau et de l'attique,
+dépourvues d'articulation verticale, ne s'alignaient aucunement avec
+cette composition. La façade de l'hôtel Jougla de Lozière réalisait une
+superposition d'ordres à pilastres plus crédible. Cela n'est pas dire
+qu'il s'agissait alors d'une simple reproduction irréfléchie de motifs
+de décoration. Les galeries à colonnades deviendraient, à Montpellier,
+les signes extérieurs de nouvelles distributions :
 
 > Une des formes de prédilection de l'époque est celle de
-> l'escalier ouvert, dont Montpellier lance la mode régionale
-> vers 1630.[@sournia:1996architecture, p. 54]
+> l'escalier ouvert, dont Montpellier lance la mode régionale vers 1630
+> [@sournia:1996architecture, p. 54].
 
 
 La colonnade accouplée classique
@@ -925,7 +884,7 @@ lui-même peu orthodoxe, composé de trois niveaux de colonnes
 accouplées de chaque côté du portail,
 il offrait une réponse originale au problème de
 la superposition des ordres sur les façades échelonnées
-des églises à bas-côtés\ ;
+des églises à bas-côtés ;
 une réponse cependant bien distincte de la solution italienne
 introduite, tout prête, en France par le traité de Serlio,
 et qui à la génération suivante prendrait le dessus
@@ -933,20 +892,16 @@ sur la composition de Saint-Gervais (1598???).
 
 La contribution de de Brosse fut néanmoins significative
 en ce qu'elle offrait une interprétation possible
-du langage classique dans
-un «\ accent\ »[@perousedemontclos:2001architecture, p. ???]
-particulièrement français.
-La façade de Saint-Gervais montrait une expression
-très tectonique des ordres, qui se plaçait en précurseur
-des façades à galeries qui marqueraient les XVII^e^
-et XVIII^e^ siècle.
-En outre, sa verticalité et le rapprochement des colonnes,
-signalait et s'accordait ave les proportions de la nef
-en même temps qu'elle dissimulait son style décoratif\ ;
-démontrer une compatibilité entre les ordres antiques
-et les valeurs abstraites du gothique français
-fut peut-être sa principale contribution, silencieuse,
-au débat sur l'accouplement des colonnes.
+du langage classique dans un « accent » [@perouse:2001architecture, p.
+???] particulièrement français. La façade de Saint-Gervais montrait une
+expression très tectonique des ordres, qui se plaçait en précurseur des
+façades à galeries qui marqueraient les XVII^e^ et XVIII^e^ siècle. En
+outre, sa verticalité et le rapprochement des colonnes, signalait et
+s'accordait ave les proportions de la nef en même temps qu'elle
+dissimulait son style décoratif ; démontrer une compatibilité entre les
+ordres antiques et les valeurs abstraites du gothique français fut
+peut-être sa principale contribution, silencieuse, au débat sur
+l'accouplement des colonnes.
 
 François Mansart, peut-être l'architecte français
 le plus prolifique et créatif dans la manipulation du
@@ -959,25 +914,22 @@ entre les contributions originales de De l'Orme et de Brosse
 et les colonnades monumentales de l'âge classique.
 
 Mansart connut les ouvrages de ses prédécesseurs grâce à
-ses voyages de jeuness dans le centre de la France et
-au nord de Paris.[@mignot:1998architecte, p. 28, 65]
-En intervenant sur des constructions commencées par de Brosse,
-il ajouta de nouvelles formes de composition avec
-colonnes et pilastres accouplés.
-Mansart donnait suite aux pavillons ponctués
-de travées rythmiques conçus par de Brosse, mais il y ajoutait
-de nouveaux motifs, telles les arcades à pilastres accouplés
-au château de Coulommiers (c. 1631).
-[@mignot:1998, p. 127] <!-- compléter citation -->
-Ce motif reprenait de près l'arcade à pilastres accouplées
-du château de Tanlay (XVI^e^ siècle), qui serait publié
-par Pierre Le Muet dans l'édition de 1647 de
-*Manière de bien bastir*.[@lemuet:1647maniere, pl. ???]
+ses voyages de jeuness dans le centre de la France et au nord de Paris
+[@mignot:1998architecte, p. 28, 65]. En intervenant sur des
+constructions commencées par de Brosse, il ajouta de nouvelles formes de
+composition avec colonnes et pilastres accouplés. Mansart donnait suite
+aux pavillons ponctués de travées rythmiques conçus par de Brosse, mais
+il y ajoutait de nouveaux motifs, telles les arcades à pilastres
+accouplés au château de Coulommiers (c. 1631) [@mignot:1998chateau, p.
+127]. Ce motif reprenait de près l'arcade à pilastres accouplées du
+château de Tanlay (XVI^e^ siècle), qui serait publié par Pierre Le Muet
+dans l'édition de 1647 de *Manière de bien bastir* [@lemuet:1681maniere,
+pl. ???].
 
 Quelques années plus tard, dans la façade sur cour de
 l'aile Orléans au château de Blois (1635--1638),
 Mansart créerait un petit chef-d'œuvre d'association entre
-stéréotomie traditionnelle française et composition classique\ :
+stéréotomie traditionnelle française et composition classique :
 deux courtes colonnades doriques au rez-de-chaussée,
 raccordant par une courbe le portail central aux pavillons
 en retour sur la cour.
@@ -987,27 +939,26 @@ rappelaient les faisceaux de piles de l'architecture gothique.
 Les portées exceptionnelles des plates-bandes,
 soulignées par les triglyphes de la frise,
 étaient un tour de force rendu possible par les voûtes coniques
-en encorbeillement, «\ un lien entre le Moyen Âge et les
-Temps modernes\ ».[@perousedemontclos:2001architecture, p. 198]
+en encorbeillement, « un lien entre le Moyen Âge et les Temps modernes »
+[@perouse:2001architecture, p. 198].
 
 Ce lien était dû non seulement à la formation de Mansart
 dans le métier de maître maçon, mais aussi à la publication
 de voûtes novatrices dans les traités de De l'Orme,
 qui offraient ainsi un répertoire pour l'application
 de la stéréotomie française à l'architecture classique,
-et dont Mansart possédait un exemplaire.
-[@mignot:1998architecte, p. 28]
-Blois offrait donc d'un seul coup le raisonnement historique,
-le prototype technique et l'exemple esthétique et fonctionnel
-des colonnades accouplées dans le classicisme français\ :
+et dont Mansart possédait un exemplaire [@mignot:1998architecte, p. 28].
+Blois offrait donc d'un seul coup le raisonnement historique, le
+prototype technique et l'exemple esthétique et fonctionnel des
+colonnades accouplées dans le classicisme français :
 
 > (...) l'accouplement des colonnes est dans le goût des
-> Français pour les piliers en faisceaux de colonnes\ ;
+> Français pour les piliers en faisceaux de colonnes ;
 > le grand entrecolonnement est adapté à l'ensoleillement d'une
-> terre plus septentrionale que les terres antiques\ : sa
+> terre plus septentrionale que les terres antiques : sa
 > réalisation n'a d'ailleurs été rendue possible que par le
-> développement que les Français ont su donner à la stéréotomie
-> des architraves.[@perousedemontclos:2001architecture, p. 55]
+> développement que les Français ont su donner à la stéréotomie des
+> architraves [@perouse:2001architecture, p. 55].
 
 <!-- Le Pautre : desseins de plusieurs palais -->
 
@@ -1030,35 +981,35 @@ Les colonnes accouplées au Louvre avant la Colonnade
 > belle composition à ordres de la Renaissance française, la
 > plus liée à l'architecture romaine. Aussi a-t-elle été
 > constamment admirée aux XVII^e^ et XVIII^e^ siècles comme
-> le premier exemple de «\ la belle et grande manière de bâtir\ ».
+> le premier exemple de « la belle et grande manière de bâtir ».
 > <!-- Sauval -->
-> Mais ce caractère «\ classique\ » ne suffit pas à définir le
-> Louvre et ne rend pas compte de son originalité\ : l'édifice
+> Mais ce caractère « classique » ne suffit pas à définir le
+> Louvre et ne rend pas compte de son originalité : l'édifice
 > le plus proche des palais romains et des arcs de triomphe,
 > celui où les ordres sont employés avec le plus de correction,
 > de logique et de variété, est aussi le plus bel exemple de
-> la «\ manière française\ »\ : il en illustre dans un
-> langage «\ romain\ » toutes les particularités.
+> la « manière française » : il en illustre dans un
+> langage « romain » toutes les particularités.
 > [@guillaume:1992francais, p. 204]
 
 > Dans un tel contexte, les ordres perdent leur valeur
-> structurale\ : les cannelures des fûts, les feuillages des
+> structurale : les cannelures des fûts, les feuillages des
 > chapiteaux, les reliefs des frises font figure d'ornements
 > juxtaposés à d'autres ornements, sculptés ou moulurés avec
 > la même précision. Effet vu par Blondel qui regrette la
-> «\ répétition des tables et des médaillons qui présentent
+> « répétition des tables et des médaillons qui présentent
 > trop de petites parties, ce qui empêche de faire dominer
 > les ordres qui doivent toujours paraître l'emporter sur
-> tout le reste de l'ordonnance...\ ». (...)
+> tout le reste de l'ordonnance... ». (...)
 > Ainsi, du rez-de-chaussée à l'attique les ordres
-> semblent-ils s'affaiblir\ : ils se perdent peu à peu dans
+> semblent-ils s'affaiblir : ils se perdent peu à peu dans
 > un tissu ornemental de plus en plus serré.
 >
 > Non content d'atténuer la distinction des étages en les
 > traitant dans un esprit ornemental, Lescot a voulu interdire
 > toute lecture horizontale continue de ces étages en
 > introduisant au centre puis aux extrémités de la façade
-> un élément vertical en saillie\ : l'avant-corps.
+> un élément vertical en saillie : l'avant-corps.
 > [@guillaume:1992francais, p. 204]
 <!-- cite J.-F. Blondel, Architecture françoise 4:64 -->
 
@@ -1080,16 +1031,15 @@ L'influence du maniérisme et du baroque romain
 y est évidente --- rappelant surtout l'*androne*
 du palais Farnèse ou encore celui du palais ???,
 <!-- Bernini, Borromini? -->
-alors que les chapiteux viennent des colonnes ioniques
-de Michel-Ange au Capitole.[@gady:2015louvre, p. 64]
-Même si le goût savant de Lemercier pour l'architecture
-à l'italienne, acquis par le voyage autant que par l'étude,
-y est bien visible, ce guichet n'était pas moins en contraste
-avec la retenue dont son prédécesseur Clément Métezeau
-avait fait preuve dans sa façade sur la cour Carrée,
-en reprenant modestement sur le pavillon central,
-aujourd'hui «\ de l'Horloge\ »,
-le style de l'aile Lescot.[@gady:2015louvre, p. 54]
+alors que les chapiteux viennent des colonnes ioniques de Michel-Ange au
+Capitole [@gady:2015louvre, p. 64]. Même si le goût savant de Lemercier
+pour l'architecture à l'italienne, acquis par le voyage autant que par
+l'étude, y est bien visible, ce guichet n'était pas moins en contraste
+avec la retenue dont son prédécesseur Clément Métezeau avait fait preuve
+dans sa façade sur la cour Carrée, en reprenant modestement sur le
+pavillon central, aujourd'hui « de l'Horloge », le style de l'aile
+Lescot [@gady:2015louvre, p. 54].
+
 <!-- Est-ce indiqué dans sa monographie sur Lemercier ? -->
 <!-- Médaille BnF SR 435 de Pierre Régnier, 1624 -->
 <!-- Guichet de Lemercier AN O1 1667 pièce 49 -->
@@ -1107,14 +1057,14 @@ et des façades étroites sur cour, au lieu des
 lourdes voûtes et amples façades des châteaux
 de de Brosse et Mansart.
 Toutefois, l'influence de ses prédécesseurs
-était assez directe\ :
+était assez directe :
 
 > For guidance on the orders, Le Vau relied less on graphic
 > models than on the buildings of François Mansart. (...)
 > It reflects a justified appreciation of Mansart's genius for
 > architectural ornament, Le Vau's relative lack of originality
-> in this sphere, and most important, a decorative approach
-> to the orders.[@ballon:1999levau, p. 104]
+> in this sphere, and most important, a decorative approach to the
+> orders. [@ballon:1999louis, p. 104]
 
 Cette attention à l'œuvre de Mansart serait utile
 pour l'activité de Le Vau au service du roi.
@@ -1130,11 +1080,11 @@ dessinés entre 1657 et 1664,[^3] Le Vau fit
 un usage systématique de colonnes engagées accouplées,
 à fin d'éliminer presque entièrement les pans de mur lisses.
 S'il ne s'agissait donc pas de véritables colonnades accouplées,
-l'effet visuel en aurait été pourtant assez proche\ :
+l'effet visuel en aurait été pourtant assez proche :
 des baies vitrées larges et hautes,
 surmontées de plate-bandes profondes et séparées par
 des paires de colonnes colossales
-engagées «\ à la Palladio\ », touchant à peine les piédroits.
+engagées « à la Palladio », touchant à peine les piédroits.
 Le Vau produisit ainsi cinq à sept projets, peu variés en plan,
 avec diverses combinaisons de colonnes simples et accouplées,
 toutes engagées en donnant un maximum de surface
@@ -1156,11 +1106,11 @@ la pléthore de recherches qui y ont été consacrées
 depuis la fin du XIX^e^ siècle.
 Nombre de celles-ci, notamment avant les fouilles de 1964,
 sont aujourd'hui discréditées par leur obsession à
-identifier un «\ héros\ » seul créateur de la Colonnade,[^4]
+identifier un « héros » seul créateur de la Colonnade,[^4]
 motivation curieusement anachronique au long d'une période où
 l'expertise se retrouvait au second plan d'une historiographie
 plutôt concernée par une
-«\ histoire de l'art sans artistes\ ».[@woelfflin:???].
+« histoire de l'art sans artistes » [@woelfflin:1948kunstgeschichtliche].
 
 À l'époque où Mazarin chargea Le Vau de compléter
 la cour Carrée du Louvre, en vue du retour prévu de Louis XIV
@@ -1173,7 +1123,7 @@ Les longues galeries à colonnades, au contraire,
 qu'elles fussent à colonnes isolées ou accouplées,
 avaient été réleguées au domaine de la peinture,
 tel le palais à l'arrière-plan du
-«\ Renaud et Armide\ » (1617) par le Dominiquin.
+« Renaud et Armide » (1617) par le Dominiquin.
 
 La dissolution du mur essayée par Le Vau et Mansart
 dans leurs projets non aboutis pour le Louvre
@@ -1192,13 +1142,13 @@ Doit-on y voir un indice d'insatisfaction
 avec le caractère encore assez conventionnel des projets
 de Le Vau, dans la mesure où les variations sur le thème
 des hôtels particuliers et de Vaux-le-Vicomte ne s'avéreraient
-pas assez distinguées pour la demeure royale\ ?
+pas assez distinguées pour la demeure royale ?
 Les projets de Houdin seraient alors peut-être la tentative
 d'obtenir une monumentalité et une distinction par l'inouï...
 si ce n'était par un recours plus précis à
-l'autorité de Palladio, dont la popularité ---\ éphémère\ ---
+l'autorité de Palladio, dont la popularité --- éphémère ---
 en France se devait à la traduction de ses
-«\ Quatre livres d'architecture\ » par Fréart de Chambray
+« Quatre livres d'architecture » par Fréart de Chambray
 (et en abrégé par Le Muet) <!-- vérifier ??? -->,
 si ce n'est à la présence, dans la Cour, des rescapés Stuart
 avec leur goût palladien.
@@ -1258,8 +1208,8 @@ Projet et construction de la Colonnade du Louvre
 >
 > The implicit tension between these two approaches flared
 > into a crisis in 1664, when Colbert assumed the post of
-> *surintendant des bâtiments* and turned his full attention
-> to the completion of the Louvre.[@gerbino:2010francois, p. 50]
+> *surintendant des bâtiments* and turned his full attention to the
+> completion of the Louvre [@gerbino:2010francois, p. 50].
 
 > His [Fréart's] influence can be seen, for example, in the
 > emphasis on the structural role of the free-standing column,
@@ -1282,7 +1232,7 @@ qu'il est plus facile de retrace dans certains cas
 plutôt que dans d'autres.
 La fortune de la travée rythmique et des colonnes accouplées
 à Montpellier est particulièrement claire
-dans et son développement\ ;
+dans et son développement ;
 elle s'y rapporte à l'époque de la création de
 la manufacture de draps de Villeneuvette (1670),
 mais surtout du canal du Midi, de 1666 à 1681,
@@ -1306,31 +1256,29 @@ et donc, peut-être, en contact avec François d'Orbay.
 Sa collection de peinture, dont 34 tableaux furent vendus
 à Louis XIV en 1671 par l'intermédiaire de Colbert,
 était d'un goût marqué du classicisme italianisant,
-dont on peut signaler des Bassano, des Carrache et des Poussin.
-[@terreaux:2017pierre]
+dont on peut signaler des Bassano, des Carrache et des Poussin
+[@terreaux:2017pierre].
 
-> L'un de ses effets [du canal] les plus profonds est culturel\ :
+> L'un de ses effets [du canal] les plus profonds est culturel :
 > mettant en contact permanent ingénieurs du roi et maçons
 > régionaux, elle contribue à familiariser ces derniers
-> avec les notions et le goût de l'entourage royal\ ;
+> avec les notions et le goût de l'entourage royal ;
 > elle suscite d'autre part entre eux un constant
 > mouvement d'échanges et de collaboration qui s'étend à
 > toute l'aire languedocienne, concourant à briser
-> les particularismes locaux et à constituer un idéal
-> architectural unitaure.[@sournia:1994montpellier, p. 22]
+> les particularismes locaux et à constituer un idéal architectural
+> unitaire. [@sournia:1994montpellier, p. 22]
 
-Le faste classique de Montpellier ne s'étalait pourtant que
-dans l'espace privé des cours.[@bonnet:1912montpellier, p. 27--28]
-E. Bonnet et A. Joubin argumentaient même que, du fait
-des impositions du parcellaire et de l'étroitesse des rues,
-ce serait cette élévation sur cour qu'il faudrait considérer
-comme la «\ véritable façade\ » d'apparat des hôtels.
-[@bonnet:1912montpellier, p. 32]
-L'escalier ouvert de l'hôtel montpelliérain, d'ailleurs
-souvent résultat de remaniements dans des *hostals*
-des XIII^e^ ou XIV^e^ siècles,
-aurait donc gagné sa galerie grâce au tropisme royal,
-et particulièrement par l'influence indirecte de Colbert.
+Le faste classique de Montpellier ne s'étalait pourtant que dans
+l'espace privé des cours [@bonnet:1912montpellier, p. 27--28]. E. Bonnet
+et A. Joubin argumentaient même que, du fait des impositions du
+parcellaire et de l'étroitesse des rues, ce serait cette élévation sur
+cour qu'il faudrait considérer comme la « véritable façade » d'apparat
+des hôtels [@bonnet:1912montpellier, p. 32]. L'escalier ouvert de
+l'hôtel montpelliérain, d'ailleurs souvent résultat de remaniements dans
+des *hostals* des XIII^e^ ou XIV^e^ siècles, aurait donc gagné sa
+galerie grâce au tropisme royal, et particulièrement par l'influence
+indirecte de Colbert.
 
 <!--
 Sa disposition la plus caractéristique après
@@ -1355,8 +1303,8 @@ modifiée après sa mort par le Parisien Guillaume Prudhomme.
 > de la cour et de la capitale que traverse la province
 > languedocienne, que signifie l'émergence incongrue
 > de cette forme, alors que s'en est détournée depuis déjà
-> assez longtemps l'architecture savante\ ; d'où vient-elle
-> et qu'est-ce qui explique sa fortune extraordinaire\ ?
+> assez longtemps l'architecture savante ; d'où vient-elle
+> et qu'est-ce qui explique sa fortune extraordinaire ?
 > [@sournia:1994montpellier, p. 84]
 -->
 
@@ -1368,8 +1316,8 @@ modifiée après sa mort par le Parisien Guillaume Prudhomme.
 > Paris et de l'ordre pseudosistyle [sic] cher à Perrault.
 > D'un bout à l'autre du pays, un idéal unitaire d'architecture
 > se dessine, une synthèse se cherche entre les formes
-> traditionnelles méridionales et l'architecture du cercle
-> royal.[@sournia:1996architecture, p. 55]
+> traditionnelles méridionales et l'architecture du cercle royal.
+> [@sournia:1996architecture, p. 55]
 
 Les principaux aménagements dans des hôtels particuliers
 à Montpellier sont en effet associés au cercle dirigeant
@@ -1386,17 +1334,17 @@ assez différents.
 
 Il est significatif que, parmi l'inspiration en partie italienne
 qu'ils attribuent à cette disposition, ces auteurs signalaient
-l'hôtel de Manse en particulier comme ayant un «\ goût italien\ »
-qui «\ domine sur la façade richement décorée de
-la cour intérieure, à l'instar de certains palais de Gênes.\ »
-[@bonnet:1912montpellier, p. 33]
+l'hôtel de Manse en particulier comme ayant un « goût italien »
+qui « domine sur la façade richement décorée de
+la cour intérieure, à l'instar de certains palais de Gênes »
+[@bonnet:1912montpellier, p. 33].
 
 > À cette œuvre certainement inspirée de modèles italiens,
 > sinon édifiée par un architecte de cette nationalité,
 > on peut reprocher une profusion d'ornements, une richesse de
-> décoration peut-être excessive\ ; elle n'en constitue pas
-> moins un ensemble harmonieux qui justifie sa très ancienne
-> réputation.[@bonnet:1912montpellier, p. 34]
+> décoration peut-être excessive ; elle n'en constitue pas
+> moins un ensemble harmonieux qui justifie sa très ancienne réputation.
+> [@bonnet:1912montpellier, p. 34]
 
 <!--
   -Aucune mention à l'accouplement, chez Bonnet et Joubin,
@@ -1414,8 +1362,7 @@ intendant des gabelles Jacques de Manse,
 propriétaire de l'hôtel, qui avait donc des contacts avec
 le fermier aux gabelles Pierre-Paul Riquet,
 idéalisateur du canal du Midi, dans lequel Arman
-avait travaillé en 1669.
-[@sournia:1994montpellier, p. 141--142]
+avait travaillé en 1669 [@sournia:1994montpellier, p. 141--142].
 
 Les petits entrecolonnements de la galerie à l'hôtel de Manse
 sont occupés par des pots à feu, formant
@@ -1424,8 +1371,8 @@ Sont projet précéda en effet la publication de
 la Colonnade du Louvre, rappelant plutôt,
 par la largeur des travées secondaires, le portique de l'escalier
 de l'hôtel Lambert à Paris, par Le Vau (1642)
----\ rare exemple, d'ailleurs, d'escalier ouvert sur galerie
-en France à cette époque.[@sournia:1994montpellier, p. 133]
+--- rare exemple, d'ailleurs, d'escalier ouvert sur galerie en France à
+cette époque [@sournia:1994montpellier, p. 133].
 
 > Tout se passe comme si l'ordonnance à colonnes renouvelait
 > le thème vieillissant de la cage ouverte tout en lui
@@ -1434,18 +1381,16 @@ en France à cette époque.[@sournia:1994montpellier, p. 133]
 
 Le changement dans l'articulation des travées rythmiques
 de l'hôtel de Manse en de véritables colonnes accouplées
-à l'hôtel de Lunaret, réalisé par de La Feuille
-et Arman entre 1676 et 1680,[@sournia:1996hotel, p. 327]
-témoigne d'une attention
-aux ouvrages parisiens, puisqu'il intervient
-précisément après la construction de la Colonnade du Louvre
-et sa publication dans le frontispice du Vitruve traduit
-par Claude Perrault.
+à l'hôtel de Lunaret, réalisé par de La Feuille et Arman entre 1676 et
+1680 [@sournia:1996hotel, p. 327], témoigne d'une attention aux ouvrages
+parisiens, puisqu'il intervient précisément après la construction de la
+Colonnade du Louvre et sa publication dans le frontispice du Vitruve
+traduit par Claude Perrault.
 
 > Sans changer de parti, l'hôtel des Trésoriers en propose
 > une traduction modernisée et résolument française. C'est
 > la colonne jumelée qui donne ce ton à la fois nouveau et
-> national, le *pseudosistyle* ou *aérostyle* [sic] tel que
+> national, le *pseudosystyle* ou *aérostyle* [sic] tel que
 > le définit la traduction des *Dix livres d'architecture* par
 > Claude Perrault. Cette élévation répercute ainsi l'écho des
 > bouleversements majeurs survenus dans l'architecture
@@ -1466,7 +1411,7 @@ par Claude Perrault.
 > [@bonnet:1912montpellier, p. ???]
 
 > Ce *grand escalier* constitue l'un des plus beaux morceaux
-> de l'architecture française dans le Midi\ : sa cage en forme
+> de l'architecture française dans le Midi : sa cage en forme
 > de portique à deux ordres de colonnes libres renouvelle en
 > langage moderne le motif de l'escalier ouvert introduit dans
 > la région cinquante ans auparavant.
@@ -1478,31 +1423,28 @@ une façade d'hôtel à la manière parisienne,
 c'est-à-dire un mur de clôture sans corps de bâtiment
 à l'entrée, solution finalement abandonnée
 [@sournia:1994montpellier, p. 130]
----\ peut-être après le retour de de La Feuille
-d'un court séjour à Gênes, qui l'aurait inspiré
-dans une autre direction\ ?[@terreaux:2017pierre, p. 42]
-Le lien avec la cour aurait été encore plus fort si
-les combles brisés surmontant un attique
-[@bonnet:1912montpellier, p. 35] avaient survécu\ ;
-il dut être abattu vers 1705 pour des raisons de
-stabilité structurale.[@sournia:1994montpellier, p. 134--135]
+--- peut-être après le retour de de La Feuille
+d'un court séjour à Gênes, qui l'aurait inspiré dans une autre
+direction [@terreaux:2017pierre, p. 42] ? Le lien avec la cour aurait
+été encore plus fort si les combles brisés surmontant un attique
+[@bonnet:1912montpellier, p. 35] avaient survécu ; il dut être abattu
+vers 1705 pour des raisons de stabilité structurale
+[@sournia:1994montpellier, p. 134--135].
 
 Les ordres accouplés superposés furent adoptés
 par le même ingénieur à la même époque à l'hôtel de ville
 de Beaucaire (1679--1680), construit en collaboration
-avec l'entrepreneur nîmois Jacques Cubizol.
-[@sournia:1994montpellier, p. 135--139]
+avec l'entrepreneur nîmois Jacques Cubizol [@sournia:1994montpellier, p.
+135--139].
 
 L'hôtel de Beaulac, dont le grand escalier
 date des dernières décennies du XVII^e^ siècle,
 peut aussi être mis en rapport avec l'influence de
 de La Feuille, mort en 1684.
 Il fut construit par Massé Sébron, qui aurait côtoyé Arman
-dans la construction du port de Sète, embouchure du canal.
-[@sournia:1994montpellier, p. 142--145]
-Au-dessus d'un soubassement
-remanié aux XVIII^e^ et XIX^e^ siècles,
-sous l'influence de d'Aviler,
+dans la construction du port de Sète, embouchure du canal
+[@sournia:1994montpellier, p. 142--145]. Au-dessus d'un soubassement
+remanié aux XVIII^e^ et XIX^e^ siècles, sous l'influence de d'Aviler,
 
 > L'étage supérieur est formé par quatre belles colonnes et
 > deux demi-colonnes d'ordre ionique, entre lesquelles s'alignent
@@ -1512,26 +1454,22 @@ sous l'influence de d'Aviler,
 > encadré de feuillage.[@bonnet:1912montpellier, p. 37]
 
 L'hôtel de Sallèles (après 1678 et avant 1695)
----\ du nom du trésorier de France qui le fit construire\ ---
+--- du nom du trésorier de France qui le fit construire ---
 et l'hôtel Rey (1682) clôturent
 cette spectaculaire série de variations sur le thème
 de la colonnade accouplée avec deux compositions semblables
 sur cour.
 L'hôtel de Sallèles fut doté d'une galerie dorique
-au rez-de-chaussée, surmontée de piédroits ornés de
-pilastres corinthiens.[@sournia:1994montpellier, p. 145]
-L'originalité de cette composition est remarquable,
-puisqu'elle porte aux dernières conséquences
-fonctionnelles et plastiques la rencontre des
-motifs du classicisme érudit
----\ la travée rythmique et les colonnades accouplées\ ---
-avec l'escalier méridional à jour.
-L'hôtel Rey, qui avait auparavant appartenu à
-André Pouget, spéculateur à la place Vendôme avec de La Feuille,
-[@sournia:1994montpellier, p. 146]
-présente deux ordres au-dessus de la colonnade,
-que seule une plate-bande à guirlandes sous l'architrave
-du bel étage permet de définir comme des pilastres
+au rez-de-chaussée, surmontée de piédroits ornés de pilastres
+corinthiens [@sournia:1994montpellier, p. 145]. L'originalité de cette
+composition est remarquable, puisqu'elle porte aux dernières
+conséquences fonctionnelles et plastiques la rencontre des motifs du
+classicisme érudit --- la travée rythmique et les colonnades
+accouplées --- avec l'escalier méridional à jour. L'hôtel Rey, qui avait
+auparavant appartenu à André Pouget, spéculateur à la place Vendôme avec
+de La Feuille [@sournia:1994montpellier, p. 146], présente deux ordres
+au-dessus de la colonnade, que seule une plate-bande à guirlandes sous
+l'architrave du bel étage permet de définir comme des pilastres
 appliqués sur des murs pleins plutôt que des piédroits.
 
 L'élan montpelliérain pour les colonnades accouplées s'éteignit
@@ -1541,29 +1479,27 @@ un ancien élève de Bondel et assistant de Hardouin-Mansart
 et de d'Orbay, pour lequel il supervisionna en 1691
 la construction de l'arc de triomphe de
 la place royale du Peyrou à Montpellier, tout en en
-modifiant le projet
----\ lui-même redevable de Blondel et Bullet.
-[@verdier:2003augustin, p. 269]
+modifiant le projet --- lui-même redevable de Blondel et Bullet
+[@verdier:2003augustin, p. 269].
 <!-- [@sournia:1994montpellier, p. 166] -->
 
 <!--
-  -La carrière de d'Aviler à Montpellier\ :
+  -La carrière de d'Aviler à Montpellier :
   -aboutissement de la francisation de l'architecture locale
   -[@sournia:1994montpellier, p. 193]
   -ou rupture avec la liberté d'accumuler des influences
-  -de tous abords\ ?
+  -de tous abords ?
   -->
 
 Les rares exemples d'accouplement à Montpellier
 au XVIII^e^ siècle distillent un air de *revival*,
-mêlant le succès des plans d'hôtels de la seconde moitié
-du siècle précédent[@sournia:1994montpellier, p. 220]
-à la nostalgie de ses compositions de surfaces.
-L'hôtel de Griffy, remanié entre 1744 et 1758,
-peut-être par Jean Antoine Giral, lorsqu'il appartenait
-au marquis de Villevieille, Joseph François de Pavée,
-fut alors doté d'une curieuse galerie dorique en «\ L\ » dont
-l'un des bras est fait de colonnes accouplées.
+mêlant le succès des plans d'hôtels de la seconde moitié du siècle
+précédent [@sournia:1994montpellier, p. 220] à la nostalgie de ses
+compositions de surfaces. L'hôtel de Griffy, remanié entre 1744 et 1758,
+peut-être par Jean Antoine Giral, lorsqu'il appartenait au marquis de
+Villevieille, Joseph François de Pavée, fut alors doté d'une curieuse
+galerie dorique en « L » dont l'un des bras est fait de colonnes
+accouplées.
 <!-- mort de la typologie? @sournia:1994montpellier, p. 226sq. -->
 
 <!--
@@ -1583,14 +1519,14 @@ La Colonnade dans la Querelle des Anciens et des Modernes
 > that are no longer considered to belong to the history
 > of art. This was particularly true of scholar--practitioners
 > like Blondel, who aspired to a wide-ranging intellectual
-> culture, one that is only partly apprehended by the analysis
-> of specific building projects.[@gerbino:2010francois, p. xvi]
+> culture, one that is only partly apprehended by the analysis of
+> specific building projects. [@gerbino:2010francois, p. xvi]
 
 > Although Blondel, too, believed in the march of discovery and
 > the gradual perfection of the arts, he was less eager to
 > jettison the contributions of earlier authors, especially
-> those who had established the foundations of the arts and
-> sciences.[@gerbino:2010francois, p. 2]
+> those who had established the foundations of the arts and sciences.
+> [@gerbino:2010francois, p. 2]
 
 > (...) the rigidly defined categories of the
 > *Querelle des anciens et des modernes* do not adequately
@@ -1601,23 +1537,23 @@ La Colonnade dans la Querelle des Anciens et des Modernes
 > the real differences involved in their dispute.
 > (...) their disagreements, insofar as they concerned the
 > interpretation of a classical text, also revealed a contest
-> over the nature of erudition and its changing relationship
-> to the practical arts.[@gerbino:2010francois, p. 3]
+> over the nature of erudition and its changing relationship to the
+> practical arts. [@gerbino:2010francois, p. 3]
 
 > Unlike others of the period, Perrault made a struct division
 > between the investigation of "words" and that of "things."
 > To him, the literary knowledge so valued by the scholars of
 > his time was virtually incompatible not only with the new
-> physical science but also with "mechanical" arts such as
-> architecture.[@gerbino:2010francois, p. 3]
+> physical science but also with "mechanical" arts such as architecture.
+> [@gerbino:2010francois, p. 3]
 
 Blondel, un professeur de mathématiques,
 ingénieur et architecte accompli, disciple de Galilée
 et diplomate, voyait, à l'instar de Peiresc
 et de Mersenne, une continuité souple
 entre la révérence pour une tradition lettrée et
-le progrès de la connaissance scientifique ou artistique.
-[@gerbino:2010francois, p. 4]
+le progrès de la connaissance scientifique ou artistique
+[@gerbino:2010francois, p. 4].
 
 > Blondel was assigned briefly to the secretary of war,
 > François Sublet de Noyers (...) [under Richelieu]
@@ -1682,6 +1618,7 @@ le progrès de la connaissance scientifique ou artistique.
 > is perhaps surprising, given how successfully the east
 > façade as a whole managed to reinvent a genuinely
 > antique aesthetic.[@gerbino:2010francois, p. 68]
+
 <!--
   -Also "surprising" in the light of his tolerance
   -towards Borromini and Michelangelo, p. 67,
@@ -1691,12 +1628,13 @@ le progrès de la connaissance scientifique ou artistique.
   -in Blondel's time.
   -->
 
-> For Blondel, this rationale was no advantage but a
 <!--
   -Of associating coupling with the Gothic past
   -or even with its "docile" adoption in the French
   -and Italian Renaissance
   -->
+
+> For Blondel, this rationale was no advantage but a
 > pronounced shortcoming; in a work intended to establish
 > a new design tradition based on a learned classicism,
 > the motif represented an intolerable concession to popular
@@ -1828,12 +1766,6 @@ Conclusion
 
 * * * *
 
-[^1]: Ce texte est une version élargie de la communication
-"Accouplement: vicissitudes of an architectural motif
-in French classicism", qui sera présentée au 6^e^ Congrès
-International d'Histoire de la Construction à Bruxelles,
-en juillet 2018.
-
 [^2]: La question de "L'auteur de la Colonnade du Louvre"
 a été résolue par Louis Hautecoeur en 1924 dans un
 article homonyme, et raffinée par Ragnar Josephson
@@ -1843,15 +1775,14 @@ des détails supplémentaires à l'histoire des projets pour
 la façade orientale du Louvre.
 Michael Petzet et Roberto Gargiani ont fourni des
 comptes-rendus assez complets de ces débats historiographiques.
-Voir [@petzet:2000architektur] et [@gargiani:2008idea].
+Voir [@petzet:2000claude] et [@gargiani:1998idea].
 
 [^3]: La première recherche systématique sur tous les projets
-de Le Vau pour le Louvre avant la Colonnade a été réalisée par
-Mary Whiteley et Allan Braham (-@whiteley:???).
-Leurs trouvailles ont été reprises depuis
-dans les ouvrages de plus grande ampleur de
-Gargiani (-@gargiani:1998idea), Petzet (-@petzet:2000claude)
-et Gady (-@gady:2015louvre).
+de Le Vau pour le Louvre avant la Colonnade a été réalisée par Mary
+Whiteley et Allan Braham (-@whiteley:1964louis). Leurs trouvailles ont
+été reprises depuis dans les ouvrages de plus grande ampleur de Gargiani
+(-@gargiani:1998idea), Petzet (-@petzet:2000claude) et Gady
+(-@gady:2015louvre).
 
 [^4]: Nous aurons l'occasion de revisiter quelques-unes de ces
 narratives héroïques dans la mesure où elles offrent
@@ -1861,21 +1792,20 @@ des colonnades accouplées.
 [^5]: Le titre fut peut-être concédé sans trop de rigueur
 à de La Feuille ou utilisé abusivement par lui,
 puisque ses dessins ne révèleraient pas une grande maîtrise
-du projet ou de la construction\ :
-«\ L'ascendance incontestable que ce dernier exerce sur les
+du projet ou de la construction :
+« L'ascendance incontestable que ce dernier exerce sur les
 destinées locales ne tient pas à une supériorité personnelle
 dans l'exercice de cet art, mais au décalage culturel qui fait
 de lui, malgré tout, le représentant le plus autorisé de la
-modernité.\ » [@sournia:1994montpellier, p. 149--150).
+modernité. » [@sournia:1994montpellier, p. 149--150].
 Son insertion sociale dans le monde de la cour est cependant
 certifiée par la publication de son obituaire dans le
 *Mercure Galant*.[@terreaux:2017pierre, p. 37]
 
-[^6]: La familiarité de Houdin avec Palladio vient-elle
-peut-être du travail de l'ingénieur français dans la
-construction de ponts de bois,[@gady:2015louvre, p. 98]
-sujet traité dans le premier (???)
-des *Quatre livres* de Palladio\ ?
+[^6]: La familiarité de Houdin avec Palladio vient-elle peut-être du
+travail de l'ingénieur français dans la construction de ponts de bois
+[@gady:2015louvre, p. 98], sujet traité dans le premier (???) des
+*Quatre livres* de Palladio ?
 
 [^7]: Un déclin que l'on s'est peut-être trop empressé
 de déclarer, puisque l'histoire de l'architecture classique
