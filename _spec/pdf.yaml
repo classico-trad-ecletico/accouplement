@@ -1,0 +1,17 @@
+from            : markdown+raw_tex
+to              : latex
+cite-method     : citeproc
+fail-if-warnings: true
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  bibliography  : biblio.bib
+  cssLabelSep   : "&ndash;"
+  documentclass : article
+  figureTitle   : Figure
+  tableTitle    : Tableau
+number-sections : true
+pdf-engine      : xelatex
+standalone      : true

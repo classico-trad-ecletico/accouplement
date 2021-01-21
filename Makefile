@@ -12,4 +12,4 @@ PANDOC/LATEX := docker run -v "`pwd`:/data" \
 		$<
 
 _csl :
-	git clone https://git@github.com/citation-style-langage/styles.git $@
+	git clone https://github.com/citation-style-language/styles.git $@
